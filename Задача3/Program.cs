@@ -26,7 +26,7 @@ string day(int num)
     }
     else
     {
-        Console.Write("Введите с 1 по 7 день");
+        Console.Write("Введите с 1 по 7");
     }
     return "";
 }
