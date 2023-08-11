@@ -10,7 +10,7 @@ int.TryParse(Console.ReadLine(), out int num);
 
 if (num > 999 || num < 100)
 {
-    Console.WriteLine("Это не трехзначное число");
+    Console.WriteLine("Это не трехзначное число!");
     return;
 }
 int GetSecond(int num)
